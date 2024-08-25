@@ -1,4 +1,4 @@
-import BookValidator from 'contracts/validators/Book.validator';
+import BookValidator from 'contracts/validators/book.validator';
 import { Author } from 'entities/author.entity';
 import { Book } from 'entities/book.entity';
 import { Publisher } from 'entities/publisher.entity';

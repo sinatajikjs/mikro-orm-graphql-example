@@ -1,4 +1,4 @@
-import AuthorValidator from 'contracts/validators/Author.validator';
+import AuthorValidator from 'contracts/validators/author.validator';
 import { Author } from 'entities/author.entity';
 import { GraphQLResolveInfo } from 'graphql';
 import fieldsToRelations from 'graphql-fields-to-relations';

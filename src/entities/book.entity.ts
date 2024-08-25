@@ -1,5 +1,5 @@
 import { Cascade, Collection, Entity, ManyToMany, ManyToOne, Property } from '@mikro-orm/core';
-import BookValidator from 'contracts/validators/Book.validator';
+import BookValidator from 'contracts/validators/book.validator';
 import { Author } from 'entities/author.entity';
 import { Publisher } from 'entities/publisher.entity';
 import { Tag } from 'entities/tag.entity';
